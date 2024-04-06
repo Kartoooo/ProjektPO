@@ -5,7 +5,7 @@
 
 using namespace std;
 
-// Klasa abstrakcyjna Kontakt
+// Klasa abstrakcyjna Kontakt jest też przykładem polimorfizmu
 class Kontakt {
 protected:
     string imie;
